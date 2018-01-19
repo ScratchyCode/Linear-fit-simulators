@@ -1,4 +1,4 @@
-# Linear-fit-simulation
-Generates data randomly distributed on a given line and plot their fit.
+# Linear-fit-simulations
+Generates data randomly distributed on a given line and plot their fit generating random ordinates or also abscissae.
 
-To run program simply execute bash script with: bash start.sh
+To run program simply execute bash script of the desired directory with: bash start.sh
